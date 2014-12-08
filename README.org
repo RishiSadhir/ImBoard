@@ -2,11 +2,10 @@
 #+AUTHOR:	Rishi Sadhir
 #+EMAIL:	Rishi.Sadhir@gmail.com
 
-* Im Board
-** About
+* About
 
 A simple clojure app that picks a fret and string at random. It displays this on to a picture of my guitar. I then have X amount of seconds to write what the corresponding note is.
 
-** Status
+* Status
 
-In Development.
+Vaporware
